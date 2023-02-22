@@ -21,6 +21,6 @@ function generateRandomColor(){
     return `#${randColor. toUpperCase()}`
 }
 
-function proyect() {
+function project() {
     main.style.backgroundColor= generateRandomColor();
 }
