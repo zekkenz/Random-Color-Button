@@ -33,6 +33,7 @@ button {
 
 button:hover {
   background-color: #ae82ae;
+  cursor:pointer;
 }
 button:active {
   background-color: #af5c5c;
