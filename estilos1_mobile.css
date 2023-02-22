@@ -22,7 +22,7 @@ button:focus, button:active {
   outline: none;
 }
 button {
-  width: 220px;
+  width: 260px;
   height: 70px;
   color: black;
   border: 3px solid black;
